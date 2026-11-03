@@ -2,7 +2,7 @@
 
 A brand-governance prototype for the Inkloom AI challenge. It checks marketing content against a brand's approved facts **before** publishing, explains every finding with the source line behind it, lets a human decide, and keeps watching **after** publishing: when a fact changes or expires, it lists every approved asset that is now out of date and re-checks it.
 
-**Live app:** _(paste your Streamlit link here)_  ·  **Repository:** https://github.com/anilendu007/Kasauti
+**Live app:** https://kasauti-chihrrcxd3zeqsxz8t7g2e.streamlit.app/?s=af666affa5#kasauti-every-brand-claim-keeps-a-receipt  ·  **Repository:** https://github.com/anilendu007/Kasauti
 
 ## Try it in two minutes (no login needed)
 
