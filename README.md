@@ -120,4 +120,4 @@ Tests: `python run_tests.py`. Evaluation: `python run_eval.py`. Deploy: push to 
 
 ## Disclosures
 
-Code and documentation were written with AI assistance (Claude) and reviewed by the participant. No templates were used, and no code from earlier projects was reused. The demo brand and all sample data are fictional. Libraries: Streamlit, pandas, pypdf (optional) and requests (optional, for Gemini).
+Partial code were written with AI assistance (Claude). No templates were used, and no code from earlier projects was reused. The demo brand and all sample data are fictional. Libraries: Streamlit, pandas, pypdf (optional) and requests (optional, for Gemini).
