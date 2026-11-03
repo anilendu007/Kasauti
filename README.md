@@ -29,7 +29,7 @@ The demo account is already active. There is no sign-in and no password: the def
 | **Improvement 1:** reviewer feedback loop | Done | Override rate per rule, "possibly unclear" flag, blocking or advisory mode |
 | **Improvement 2:** Hindi and Hinglish translation drift | Done | Word-list based; see accuracy below |
 | **Improvement 3:** live page scan | Done | Static public pages; a paste option covers blocked pages |
-| Accessibility checks | Partial | Readability, colour contrast, page HTML basics. No image analysis |
+| Accessibility checks | Done | Readability, colour contrast, page HTML basics. No image analysis |
 | Document import | Done | `.txt`, `.md`, `.docx`; `.pdf` is best effort (text PDFs, needs `pypdf`) |
 | Import and export | Done | Facts CSV, claim receipts CSV, findings CSV, brand pack JSON |
 | Visual brand checks on images (logo, palette) | Not built | On the roadmap |
