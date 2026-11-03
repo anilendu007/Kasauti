@@ -1,0 +1,34 @@
+text,expected
+The 250 g Assam blend is ₹399.,Supported
+Our 250 g Assam blend costs ₹349.,Contradicted
+"Assam blend, 250 g, Rs. 399/-",Supported
+250 g Assam blend now at 299 rupees.,Contradicted
+"Get our Assam blend (250 g) for just ₹1,299.",Contradicted
+Our 250g Assam blend is Rs399.,Supported
+ONLY ₹399 for 250 g Assam blend!!!,Supported
+Assam blend: ₹399 (was ₹499).,Supported
+Made with certified organic leaves.,Supported
+Made with 100% organic tea.,Overclaim
+Our tea is completely organic.,Overclaim
+Our packaging is fully organic and compostable.,Overclaim
+यह चाय 100% ऑर्गेनिक है।,Overclaim
+Monsoon sale: 20% off all blends.,Stale
+Enjoy 20% off this week only!,Stale
+Helps you sleep better.,Unsupported
+Clinically proven to boost immunity.,Unsupported
+Detox your body with our tea.,Unsupported
+The best tea in India.,Unsupported
+Guaranteed to make your mornings better.,Unsupported
+Buy 1 get 1 free.,Unsupported
+Contains 0% sugar.,Unsupported
+Only three hundred and forty nine rupees for 250 g Assam blend,Unsupported
+Free delivery on orders above ₹499.,Supported
+Free delivery on orders above ₹299.,Contradicted
+Free delivery on all orders.,Contradicted
+Try MasalaMornings today.,Terminology
+Masla Mornings brings you Assam tea.,Terminology
+Welcome to Masala Mornings.,
+Our new packaging looks great.,
+Now just ₹349 for 250 g. Made with 100% organic tea! Helps you sleep better.,Contradicted|Overclaim|Unsupported
+Monsoon sale: 20% off. Free delivery above ₹299. Try MasalaMornings.,Stale|Contradicted|Terminology
+"The 250 g Assam blend is ₹399, made with certified organic leaves. Free delivery on orders above ₹499.",Supported|Supported|Supported
